@@ -1,0 +1,14 @@
+{
+  "name": "火火一家人 東京親子行隨身助理",
+  "short_name": "東京助理",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4EDE0",
+  "theme_color": "#F4EDE0",
+  "lang": "zh-Hant",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
