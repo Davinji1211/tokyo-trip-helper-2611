@@ -1,7 +1,7 @@
 // 自動產生，勿手改（scripts/gen-sw.mjs）
-const VERSION = 'fedf4329ec5d';
+const VERSION = '725e7360e49a';
 const CACHE = 'tokyo-helper-' + VERSION;
-const FILES = ["./","./apple-touch-icon.png","./assets/index-BEyIeQeV.js","./assets/index-C9dJuO-X.css","./icon-192.png","./icon-512.png","./img/p02-wide.webp","./img/p02.webp","./img/p03.webp","./img/p04.webp","./img/p05.webp","./img/p06.webp","./img/p07.webp","./img/p08-wide.webp","./img/p08.webp","./img/p09.webp","./img/p10.webp","./img/p11.webp","./img/p12.webp","./img/p13.webp","./img/p14.webp","./img/p15.webp","./img/p17-wide.webp","./img/p17.webp","./img/p18.webp","./index.html","./manifest.webmanifest"];
+const FILES = ["./","./apple-touch-icon.png","./assets/index-BU79w2fH.css","./assets/index-CxdfvB0D.js","./icon-192.png","./icon-512.png","./img/d1-enoshima-station.webp","./img/d1-monorail.webp","./img/d1-ofuna-gate.webp","./img/p02-wide.webp","./img/p02.webp","./img/p03.webp","./img/p04.webp","./img/p05.webp","./img/p06.webp","./img/p07.webp","./img/p08-wide.webp","./img/p08.webp","./img/p09.webp","./img/p10.webp","./img/p11.webp","./img/p12.webp","./img/p13.webp","./img/p14.webp","./img/p15.webp","./img/p17-wide.webp","./img/p17.webp","./img/p18.webp","./index.html","./manifest.webmanifest"];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
